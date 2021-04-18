@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Name",
+        "fullName": "Name",
+        "alternateName": "Name",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "Ethnicity",
+        "fullName": "Ethnicity",
+        "alternateName": "Ethnicity",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "Date",
+        "fullName": "Date",
+        "alternateName": "Date",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "Email",
+        "fullName": "Email",
+        "alternateName": "Email",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "DOB",
+        "fullName": "DOB",
+        "alternateName": "DOB",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "Age",
+        "fullName": "Age",
+        "alternateName": "Age",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "Gender",
+        "fullName": "Gender",
+        "alternateName": "Gender",
+        "isNoExport": false,
+        "type": "radio",
+        "value": null
+    },
+    {
+        "name": "Phone",
+        "fullName": "Phone",
+        "alternateName": "Phone",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "Address",
+        "fullName": "Address",
+        "alternateName": "Address",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "City",
+        "fullName": "City",
+        "alternateName": "City",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "State",
+        "fullName": "State",
+        "alternateName": "State",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "Zip",
+        "fullName": "Zip",
+        "alternateName": "Zip",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "CareStart",
+        "fullName": "CareStart",
+        "isNoExport": false,
+        "type": "checkbox",
+        "value": null
+    },
+    {
+        "name": "Negative",
+        "fullName": "Negative",
+        "isNoExport": false,
+        "type": "checkbox",
+        "value": null
+    },
+    {
+        "name": "Positive",
+        "fullName": "Positive",
+        "isNoExport": false,
+        "type": "checkbox",
+        "value": null
+    },
+    {
+        "name": "Test Admin Name",
+        "fullName": "Test Admin Name",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "Date6_af_date",
+        "fullName": "Date6_af_date",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "Test Admin Signature",
+        "fullName": "Test Admin Signature",
+        "isNoExport": false,
+        "isFileSelect": false,
+        "type": "plaintext",
+        "value": null
+    },
+    {
+        "name": "BD Veritor",
+        "fullName": "BD Veritor",
+        "isNoExport": false,
+        "type": "checkbox",
+        "value": null
+    }
+]
